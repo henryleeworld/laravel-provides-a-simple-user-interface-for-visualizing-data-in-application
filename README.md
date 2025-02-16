@@ -1,4 +1,4 @@
-# Laravel 10 提供簡單的使用者介面將資料視覺化
+# Laravel 11 提供簡單的使用者介面將資料視覺化
 
 引入 chartello 的 chartello 套件來擴增提供簡單的使用者介面將資料視覺化，通過觀察數字、統計數據加以轉換獲得清晰的結論並不是一件容易的事。
 
@@ -26,5 +26,5 @@ $ php artisan migrate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/WxNyacU.png)
+![](https://i.imgur.com/csxMGaQ.png)
 > 更容易的解釋數據模式、趨勢、統計規律和數據相關性
